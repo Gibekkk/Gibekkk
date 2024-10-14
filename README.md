@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gibekkk
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning OSINT and Web Exploitation
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Email me on gfoucauld@student.ciputra.ac.id
 - 😄 Pronouns: He/Him
