@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning OSINT and Web Exploitation
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 Email me on gfoucauld@student.ciputra.ac.id
+- 📫 Email me on www.gilbertwinardy@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: PHP has been resurrected from time to time
 
